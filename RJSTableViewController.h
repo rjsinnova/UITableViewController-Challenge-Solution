@@ -1,5 +1,5 @@
 //
-//  RJSViewController.h
+//  RJSTableViewController.h
 //  UITableViewController Challenge Solution
 //
 //  Created by Ralph Sanks on 8/14/14.
@@ -8,6 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface RJSViewController : UIViewController
+@interface RJSTableViewController : UITableViewController
 
 @end
